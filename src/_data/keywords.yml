@@ -1,5 +1,8 @@
-- term: 'abstract'
+- term: 'abstract (class)'
   link: /language/class-modifiers#abstract
+  type: bit
+- term: 'abstract (field)'
+  link: /null-safety/understanding-null-safety#abstract-fields
   type: bit
 - term: 'as'
   link: /language/operators#type-test-operators
